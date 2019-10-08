@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TV Shows</string>
+
+    <string name="search_empty_place_holder">Please enter anything to find TV Show e.g. Friends</string>
+    <string name="search_hint">Enter TV Show</string>
+    <string name="search_button">Search</string>
+
+    <string name="menu_favorites">Favorites</string>
+
+    <string name="favorites_title">Favorite TV Show</string>
+
+    <string name="favorites_empty_place_holder">There are no favorite TV Show!</string>
+
+    <string name="error_network">Error network.</string>
+</resources>

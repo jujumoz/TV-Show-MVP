@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1679620,
+    "url": "http://www.tvmaze.com/episodes/1679620/demain-nous-appartient-2x249-episode-525-le-secret-des-lazzari-20",
+    "name": "Épisode 525 : Le Secret des Lazzari #20",
+    "season": 2,
+    "number": 249,
+    "airdate": "2019-08-08",
+    "airtime": "19:20",
+    "airstamp": "2019-08-08T17:20:00+00:00",
+    "runtime": 26,
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 34409,
+      "url": "http://www.tvmaze.com/shows/34409/demain-nous-appartient",
+      "name": "Demain nous appartient",
+      "type": "Scripted",
+      "language": "French",
+      "genres": [
+        "Drama"
+      ],
+      "status": "Running",
+      "runtime": 26,
+      "premiered": "2017-07-17",
+      "officialSite": "https://www.tf1.fr/tf1/demain-nous-appartient",
+      "schedule": {
+        "time": "19:20",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 85,
+      "network": {
+        "id": 129,
+        "name": "TF1",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        }
+      },
+      "webChannel": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 328775,
+        "imdb": "tt7124904"
+      },
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/142/356490.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/142/356490.jpg"
+      },
+      "summary": null,
+      "updated": 1570498566,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/shows/34409"
+        },
+        "previousepisode": {
+          "href": "http://api.tvmaze.com/episodes/1719307"
+        },
+        "nextepisode": {
+          "href": "http://api.tvmaze.com/episodes/1719308"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1679620"
+      }
+    }
+  },
+  {
+    "id": 1686366,
+    "url": "http://www.tvmaze.com/episodes/1686366/en-famille-8x34-episode-34",
+    "name": "Episode 34",
+    "season": 8,
+    "number": 34,
+    "airdate": "2019-08-08",
+    "airtime": "20:00",
+    "airstamp": "2019-08-08T18:00:00+00:00",
+    "runtime": 6,
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 21004,
+      "url": "http://www.tvmaze.com/shows/21004/en-famille",
+      "name": "En Famille",
+      "type": "Scripted",
+      "language": "French",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "status": "Running",
+      "runtime": 6,
+      "premiered": "2014-07-07",
+      "officialSite": "https://www.6play.fr/en-famille-p_1270",
+      "schedule": {
+        "time": "20:00",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 0,
+      "network": {
+        "id": 478,
+        "name": "M6",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        }
+      },
+      "webChannel": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 267693,
+        "imdb": "tt2604124"
+      },
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/74/185344.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/74/185344.jpg"
+      },
+      "summary": null,
+      "updated": 1569839747,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/shows/21004"
+        },
+        "previousepisode": {
+          "href": "http://api.tvmaze.com/episodes/1699827"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1686366"
+      }
+    }
+  },
+  {
+    "id": 1683901,
+    "url": "http://www.tvmaze.com/episodes/1683901/plus-belle-la-vie-15x219-episode-3859",
+    "name": "Episode 3859",
+    "season": 15,
+    "number": 219,
+    "airdate": "2019-08-08",
+    "airtime": "20:10",
+    "airstamp": "2019-08-08T18:10:00+00:00",
+    "runtime": 30,
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 26950,
+      "url": "http://www.tvmaze.com/shows/26950/plus-belle-la-vie",
+      "name": "Plus belle la vie",
+      "type": "Scripted",
+      "language": "French",
+      "genres": [],
+      "status": "Running",
+      "runtime": 30,
+      "premiered": "2004-08-30",
+      "officialSite": "https://www.france.tv/france-3/plus-belle-la-vie/",
+      "schedule": {
+        "time": "20:10",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 72,
+      "network": {
+        "id": 249,
+        "name": "France 3",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        }
+      },
+      "webChannel": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 97371,
+        "imdb": "tt0423713"
+      },
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/106/266192.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/106/266192.jpg"
+      },
+      "summary": "<p><b>Plus belle la vie</b> narrates the everyday life of the people who are living in a fictitious neighborhood called Le Mistral.</p>",
+      "updated": 1570077272,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/shows/26950"
+        },
+        "previousepisode": {
+          "href": "http://api.tvmaze.com/episodes/1718120"
+        },
+        "nextepisode": {
+          "href": "http://api.tvmaze.com/episodes/1718121"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1683901"
+      }
+    }
+  },
+  {
+    "id": 1684541,
+    "url": "http://www.tvmaze.com/episodes/1684541/des-trains-pas-comme-les-autres-9x04-albanie",
+    "name": "Albanie",
+    "season": 9,
+    "number": 4,
+    "airdate": "2019-08-08",
+    "airtime": "20:50",
+    "airstamp": "2019-08-08T18:50:00+00:00",
+    "runtime": 53,
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 43067,
+      "url": "http://www.tvmaze.com/shows/43067/des-trains-pas-comme-les-autres",
+      "name": "Des trains pas comme les autres",
+      "type": "Documentary",
+      "language": "French",
+      "genres": [],
+      "status": "Running",
+      "runtime": 53,
+      "premiered": "2011-07-28",
+      "officialSite": "https://www.france.tv/france-5/des-trains-pas-comme-les-autres/",
+      "schedule": {
+        "time": "20:50",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 0,
+      "network": {
+        "id": 980,
+        "name": "France 5",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        }
+      },
+      "webChannel": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 252110,
+        "imdb": "tt2446456"
+      },
+      "image": null,
+      "summary": "<p>Each episode presents one (or more) countries, through a route on the national railway lines. From stage to stage, we discover unusual trains, archaic or ultramodern, twists country or palaces on wheels, on tiny or huge routes, but also the history, culture and peoples of each country.</p>",
+      "updated": 1567498263,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/shows/43067"
+        },
+        "previousepisode": {
+          "href": "http://api.tvmaze.com/episodes/1693353"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1684541"
+      }
+    }
+  },
+  {
+    "id": 1683906,
+    "url": "http://www.tvmaze.com/episodes/1683906/secrets-dhistoire-2019-08-08-pedro-ii-le-dernier-empereur-du-bresil",
+    "name": "Pedro II, le dernier empereur du Brésil",
+    "season": 2019,
+    "number": 5,
+    "airdate": "2019-08-08",
+    "airtime": "20:55",
+    "airstamp": "2019-08-08T18:55:00+00:00",
+    "runtime": 120,
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 24651,
+      "url": "http://www.tvmaze.com/shows/24651/secrets-dhistoire",
+      "name": "Secrets d'Histoire",
+      "type": "Documentary",
+      "language": "French",
+      "genres": [
+        "History"
+      ],
+      "status": "Running",
+      "runtime": 120,
+      "premiered": "2007-09-30",
+      "officialSite": "https://www.france.tv/france-2/secrets-d-histoire/",
+      "schedule": {
+        "time": "20:55",
+        "days": [
+          "Tuesday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 14,
+      "network": {
+        "id": 106,
+        "name": "France 2",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        }
+      },
+      "webChannel": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 83491,
+        "imdb": null
+      },
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/94/235534.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/94/235534.jpg"
+      },
+      "summary": "<p><b>Secrets d'Histoire</b> is a television program broadcast on France 2 and presented by Stéphane Bern. Each issue traces the life of a great personage of the history and highlights places emblematic of the heritage.</p>",
+      "updated": 1570356308,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/shows/24651"
+        },
+        "previousepisode": {
+          "href": "http://api.tvmaze.com/episodes/1693393"
+        },
+        "nextepisode": {
+          "href": "http://api.tvmaze.com/episodes/1728930"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/episodes/1683906"
+      }
+    }
+  }
+]

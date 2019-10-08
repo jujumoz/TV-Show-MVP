@@ -1,0 +1,32 @@
+apply plugin: 'java'
+apply plugin: 'kotlin'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+
+configurations {
+    provided
+}
+
+sourceSets {
+    main {
+        compileClasspath += configurations.provided
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    testImplementation "junit:junit:$junit"
+    testImplementation "org.mockito:mockito-core:$mockito"
+    testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:$mockito_kotlin"
+
+    implementation "javax.inject:javax.inject:$javax_inject"
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation "androidx.core:core-ktx:$kotlin_core_version"
+
+    implementation "io.reactivex.rxjava2:rxandroid:$rxjava2_rxandroid"
+    implementation "io.reactivex.rxjava2:rxjava:$rxjava2_rxjava"
+    implementation "io.reactivex.rxjava2:rxkotlin:$rxjava2_rxkotlin"
+}
